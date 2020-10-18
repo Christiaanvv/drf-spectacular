@@ -1,7 +1,6 @@
 os: linux
 dist: focal
 language: python
-dist: bionic
 addons:
   apt:
     packages:
